@@ -22,7 +22,7 @@ title: Marty's markdown content
 email: martyyu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a demonstration of markdown prowess.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /martyyu-markup
 url: https://martyyu.github.io/martyyu-markup/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: martyyu
 github_username:  martyyu
